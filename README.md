@@ -1,7 +1,7 @@
 # surveillance-and-communication-system-using-yolov3
 A smart surveillance system that detects threats along with voice assistance and communication system .
 
-![](images/Screenshot (26).png)
+![](https://github.com/garaofthesand/surveillance-and-communication-system-using-yolov3/blob/master/Screeanshot%20(26).png)
 
 Clone or download the zip file first
 Make sure u  have python 3.6.5 and anaconda for the same
