@@ -1,7 +1,13 @@
 # surveillance-and-communication-system-using-yolov3
 A smart surveillance system that detects threats along with voice assistance and communication system .
 
-![](https://github.com/garaofthesand/surveillance-and-communication-system-using-yolov3/blob/master/Screeanshot%20(26).png)
+![img1](https://user-images.githubusercontent.com/40035248/91661409-7641c700-eaf9-11ea-9e84-c29a747be0fb.jpeg)
+
+![img2](https://user-images.githubusercontent.com/40035248/91661423-93769580-eaf9-11ea-9d1b-ad90e6e40188.jpeg)
+
+
+![Screenshot (30)](https://user-images.githubusercontent.com/40035248/91661372-34b11c00-eaf9-11ea-859c-a468cdec113b.png)
+
 
 Clone or download the zip file first
 Make sure u  have python 3.6.5 and anaconda for the same
@@ -53,3 +59,9 @@ if weights and installation of all packages is over run these
         python detect.py --images "data/images/1.jpg ,data/images/2.jpg"
    
 After running detect.py u will find outputs in the detections folder .
+
+After doing all this , you can detect AOI for images , videos and via realtime.
+
+
+
+For interface and communication just install the dependecies.
